@@ -1,0 +1,6 @@
+{
+  "name": "AulaCore",
+  "description": "Plataforma de inteligencia predictiva y gestión para instituciones educativas vanguardistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -310,7 +310,7 @@ export default function LandingPage({ onOpenDemo, onGoToDashboard }: LandingPage
               Beneficios Clave
             </h4>
             <h3 className="text-lg font-black text-on-surface leading-snug">
-              Ventas de <span className="text-primary font-extrabold">AulaCore</span>
+              Análisis <span className="text-primary font-extrabold">AulaCore</span>
             </h3>
             <p className="text-[10px] text-on-surface-variant font-medium mt-1">
               Impacto y resultados educativos con inteligencia predictiva.
